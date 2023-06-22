@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Camera/static/css/main.aabfecff.css",
-    "main.js": "/Camera/static/js/main.9fa94d7c.js",
+    "main.js": "/Camera/static/js/main.f9376dbd.js",
     "index.html": "/Camera/index.html",
     "main.aabfecff.css.map": "/Camera/static/css/main.aabfecff.css.map",
-    "main.9fa94d7c.js.map": "/Camera/static/js/main.9fa94d7c.js.map"
+    "main.f9376dbd.js.map": "/Camera/static/js/main.f9376dbd.js.map"
   },
   "entrypoints": [
     "static/css/main.aabfecff.css",
-    "static/js/main.9fa94d7c.js"
+    "static/js/main.f9376dbd.js"
   ]
 }
