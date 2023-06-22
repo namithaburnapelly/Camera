@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Camera/static/css/main.abd64e84.css",
+    "main.js": "/Camera/static/js/main.1b75bb05.js",
+    "index.html": "/Camera/index.html",
+    "main.abd64e84.css.map": "/Camera/static/css/main.abd64e84.css.map",
+    "main.1b75bb05.js.map": "/Camera/static/js/main.1b75bb05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.1b75bb05.js"
+  ]
+}
